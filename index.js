@@ -17,7 +17,7 @@ hilt = hilts[hiltIdx];
 color = colors[colorIdx];
 side = sides[sideIdx]
 
-var message = `${character} has ${hilt} hilt with a ${color} lightsaber, and they are on the ${side}`;
+var message = `${character} has ${hilt} hilt with a ${color} lightsaber color, and they are on the ${side}`;
 
 
 function randomize() {
